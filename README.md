@@ -1,6 +1,7 @@
 # Predicting 30-Day Hospital Readmission Risk in Diabetic Patients
 
 **MSc Data Science Dissertation — University of South Wales**
+**🔗 Live demo:** https://nhs-readmission-predictor-tu2vu4ajlb2udtfus64v3d.streamlit.app/
 **Framed for NHS Wales relevance:** unplanned readmissions are a nationally tracked
 NHS quality/cost metric. This project builds an explainable ML pipeline that flags
 patients at high risk of readmission within 30 days of discharge, using a large,
